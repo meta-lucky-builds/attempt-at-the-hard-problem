@@ -21,6 +21,12 @@ ones it cannot explain, such as why any organization feels.
 - Claude was used in this work, including in reviewing and helping execute tests. The author holds the responsibility
   for it.
 
+## Related work
+
+- [A Control-Theoretic Formulation of Global Workspace Theory](https://arxiv.org/abs/2608.15926) (Kanai, 16 Aug 2026) is another formal treatment of the global workspace.
+- [Verbalizable Representations Form a Global Workspace in Language Models](https://arxiv.org/abs/2607.15495) (Gurnee et al., 16 Jul 2026) tests workspace claims with causal interventions; the paper cites it.
+- [From cacophony to hierarchy](https://arxiv.org/abs/2609.35618) (Chandaria et al., 28 Sep 2026) is a framework for assessing AI consciousness that sets the hard problem aside.
+
 ## License
 
 The paper is released under the [Creative Commons Attribution 4.0 International License](LICENSE).
